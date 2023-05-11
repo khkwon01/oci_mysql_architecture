@@ -2,6 +2,8 @@
 한국 리젼(서울, 춘천)은 Availability Domain 1개 있으므로 AD내에 Fault Domain를 사용하여 이중화를 진행해야 함.
 <img width="924" alt="image" src="https://github.com/khkwon01/oci_mysql_architecture/assets/8789421/9d40db62-249a-402e-92ea-cf00a1920c0b">
 
+## 리젼 인프라 이중화 MySQL 아키텍처
+<img width="927" alt="image" src="https://github.com/khkwon01/oci_mysql_architecture/assets/8789421/f76d7f59-89dc-460e-b32c-b2e3027da638">
 
 
 
