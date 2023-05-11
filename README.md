@@ -4,4 +4,5 @@
 
 
 
-### 참조 URL : https://docs.oracle.com/en/solutions/choose-mysql-architecture/#GUID-E0A80456-19A9-43B5-83A3-5AC7A2037236
+### 참조 URL 
+- https://docs.oracle.com/en/solutions/choose-mysql-architecture/#GUID-E0A80456-19A9-43B5-83A3-5AC7A2037236
