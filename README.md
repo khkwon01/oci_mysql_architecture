@@ -5,6 +5,8 @@
 ## 리젼 인프라 이중화 MySQL 아키텍처
 <img width="927" alt="image" src="https://github.com/khkwon01/oci_mysql_architecture/assets/8789421/f76d7f59-89dc-460e-b32c-b2e3027da638">
 
+## Database 접속 view 아키텍처
+<img width="926" alt="image" src="https://github.com/khkwon01/oci_mysql_architecture/assets/8789421/76283fba-a7de-4852-9edd-96a8d988b9d0">
 
 
 ## 참조 URL 
