@@ -9,6 +9,7 @@
 <img width="926" alt="image" src="https://github.com/khkwon01/oci_mysql_architecture/assets/8789421/76283fba-a7de-4852-9edd-96a8d988b9d0">
 
 ## Database 모니터링 아키텍처
+![image](https://github.com/khkwon01/oci_mysql_architecture/assets/8789421/ddbaa1fb-6f1f-46a4-9169-6d713ba14903)
 
 ## 참조 URL 
 - https://docs.oracle.com/en/solutions/choose-mysql-architecture/#GUID-E0A80456-19A9-43B5-83A3-5AC7A2037236
